@@ -1,0 +1,9 @@
+[submodule "toolkit"]
+	path = toolkit
+	url = https://github.com/toolkitchen/toolkit.git
+[submodule "pantry"]
+	path = pantry
+	url = https://github.com/toolkitchen/pantry.git
+[submodule "projects"]
+	path = projects
+	url = https://github.com/toolkitchen/projects.git
